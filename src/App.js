@@ -37,7 +37,7 @@ function App() {
         {count}
       </div>
       <Button className="button" variant="primary" onClick={() => { increment() }}>INCREACE</Button>
-      <Button variant="danger" onClick={() => { decrement() }}>DECREACE</Button>
+      <Button variant="danger" onClick={() => { decrement }}>DECREACE</Button>
       <div>{myData.first}</div>
       <div>{myData.second}</div>
       <div>
