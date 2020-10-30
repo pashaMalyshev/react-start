@@ -7,7 +7,10 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^4.5.3",
+<<<<<<< HEAD
     "gitignore": "^0.6.0",
+=======
+>>>>>>> 9a586d5a0afde8b77a542218111b9094358ac762
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
